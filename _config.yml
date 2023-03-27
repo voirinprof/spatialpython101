@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "fr-CA"
+locale                   : "fr-Fr"
 title                    : "Apprendre à coder en Python en Géomatique"
 title_separator          : "-"
 subtitle                 : # Partir de zéro pour coder en géomatique
