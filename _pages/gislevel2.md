@@ -93,7 +93,7 @@ Il est important de noter que le développeur doit disposer de bonnes référenc
 
 ressources:
 
-* [Plugins]({% link _pages/ressources.md %})
+* [Plugins]({{ site.baseurl }}{% link _pages/ressources.md %})
 
 Vidéos utiles : 
 * [Déployer la base d'un plugin sous QGis 3 (avec le plugin builder)](https://youtu.be/pnDr149JMWU)
