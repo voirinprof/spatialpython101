@@ -91,6 +91,10 @@ Le développement d'une extension Python dans QGIS nécessite des connaissances 
 
 Il est important de noter que le développeur doit disposer de bonnes références vers la documentation technique touchant à QGis et PyQt5.
 
+ressources:
+
+* [Plugins]({% link _pages/ressources.md %})
+
 Vidéos utiles : 
 * [Déployer la base d'un plugin sous QGis 3 (avec le plugin builder)](https://youtu.be/pnDr149JMWU)
 * [Faire un plugin qui va créer une couche vectorielle (QGis 3.4)](https://youtu.be/hMbzWsq0-bI)
